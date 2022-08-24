@@ -12,8 +12,8 @@
 </div>
 
 ## 🌱 About me: 
-- I'm a FullStack Developer with MERN Stack from Argentina.
-- Learning PostgreSQL.
+- I'm a FullStack Developer with MERN / PERN Stack from Argentina.
+
 
 ## :hammer_and_wrench: Language and tools:
 
@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📫 How to reach me :
 
