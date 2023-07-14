@@ -12,7 +12,10 @@
 </div>
 
 ## 🌱 About me: 
-- I'm a FullStack Developer with MERN / PERN Stack from Argentina.
+- I'm a web developer from Argentina.
+
+ ## 💼 Portfolio: 
+- I invite you to explore my work and achievements in greater detail at <a href="lisandrorubianes.me">lisandrorubianes.me</a>
 
 
 ## :hammer_and_wrench: Language and tools:
